@@ -41,15 +41,7 @@ h1 {
     line-height: .8em;
 }
 
-h1 span {
-    font-size: .4em;
-    font-style: italic;
-    display: inline-block;
-    vertical-align: middle;
-    margin-right: -10px;
-    margin-bottom: 25px;
-    color: #68c3c0;
-}
+
 
 .score {
     width: 100%;
