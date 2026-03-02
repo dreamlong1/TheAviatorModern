@@ -44,21 +44,16 @@ h1 {
 h1 span {
     font-size: .4em;
     font-style: italic;
-    display: block;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: -10px;
+    margin-bottom: 25px;
     color: #68c3c0;
-}
-
-h2 {
-    margin: 0;
-    font-size: 1.2em;
-    letter-spacing: 0.5em;
-    color: #f25346;
-    text-transform: uppercase;
 }
 
 .score {
     width: 100%;
-    margin-top: 30px;
+    margin-top: 15px;
     display: flex;
     justify-content: center;
 }
